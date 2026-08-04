@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @Pavan Gotla
-- 👀 I’m interested in Software engineer
-- 🌱 I’m currently learning to become an engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Eat five star, Do nothing 
-<!---
-Pavan-Gotla/Pavan-Gotla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Pavan Kumar Gotla
+
+🎓 Electronics and Communication Engineering Graduate passionate about Embedded Systems, IoT, and Software Development.
+
+## 👨‍💻 About Me
+
+- 💻 Interested in Embedded Systems, IoT, and System Programming
+- 🌱 Currently learning Linux, ARM Architecture, TCP/IP Networking, and Device Drivers
+- 🔧 Passionate about building real-world embedded applications
+- 🚀 Always exploring new technologies and improving my technical skills
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** C, C++, Embedded C, SQL
+- **Embedded Systems:** ARM7 LPC2148, UART, I²C, GPIO, RTC, EEPROM
+- **Operating System:** Linux
+- **Networking:** TCP/IP
+- **IoT:** ESP-01, ThingSpeak
+- **Tools:** Git, GitHub, Keil µVision, Flash Magic, MATLAB
+
+## 📌 Featured Projects
+
+- ❄️ ColdGuard – IoT-Based Cold Storage Monitoring System
+- 🐦 Bird Sound Classification using Deep Learning
+- 😊 Face Recognition using MATLAB
+- 📡 PIFA Antenna Design for Automotive Applications
+
+## 📫 Connect with Me
+
+- **GitHub:** https://github.com/Pavan-Gotla
+- **LinkedIn:** https://www.linkedin.com/in/pavan-gotla-074a9a280
+
+---
+
+⭐ *Learning, Building, and Growing Every Day.*
